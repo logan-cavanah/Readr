@@ -1,0 +1,39 @@
+Pain: people struggle to commit to reading. Dopamine addiction, easy distractions, short-termism,
+are all powerful blockers from the joy of reading.
+
+
+
+#----------#
+# NEW BOOK #
+#----------#
+1. User specifies what book / text they want to read
+    - Interface with a global book registry.
+    - Interface with global academic registry.
+2. Timeframe:
+    - Both ppd and deadline can be edited (and will affect each other in realtime).
+    - You have until 1 week after starting a new project to edit this.
+3. When are your reading days? (Designate days of the week)
+    - Every month, you have 4 emergency skip day tokens. Can buy more with money.
+4. What type of reward structure do you want? (Note: collaterals are always unlocked on non-reading days)
+    - EITHER: Reading unlocks collaterals for 24/(no. of projects that day) hours. Cannot exceed 24hrs.
+    - OR: Reading unlocks collaterals for the rest of that day.
+    - How much free time before reading? (5 min, 15 min, 30 min)
+5. Set other goals?
+    - Write (or speak) a summary of what you read (today / this week / this month / this book)
+
+#----------------#
+# DAILY PROGRESS #
+#----------------#
+1. Collaterals are locked by default.
+2. User inputs what page they are on.
+3. User sends image proof.
+4. Collaterals are unlocked for a period of time.
+
+#--------------------------#
+# COLLATERAL SPECIFICATION #
+#--------------------------#
+1. Apps (YouTube, TikTok, instagram, etc.)
+2. Websites (above, and more)
+    - Blocked on safari AND associated Chrome accounts? Chrome extension required?
+3. Desktop applications (steam, other gaming platforms)
+4. Money; spend £10 (£20, £30, ...) recurring every month but get it back at the end of the month IF you completed your projects.
